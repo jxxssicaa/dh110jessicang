@@ -18,20 +18,31 @@ This website has a lot of information, and right away you notice how many tabs, 
 There is a scroller bar when scrolling down the website, so users know how long the page is. 
 #### Bad: 
 There is no indication of system status when scrolling thorugh the slides on the main slideshow on the home page. This leads me to wonder where and when the slideshow ends. There is also  no feedback when typing into the search bar, such as pre populated word fetaure. 
-#### Severity rating: 2
+#### Severity rating: 1
 ### 2. Match between system and the real world
 The design uses terms and concepts that are used in the real world and presents information in a familiar manner to users.	Elevator shows an up arrow when it is going up.
 #### Good:
-The website uses real worl applicable terms terms and so it seems familiar.
+The website uses real world applicable terms terms and so it seems familiar.
 #### Bad: 
 The website has icons that indicate things such as trash for "collections not in effect" and a book for "Schools not in session." These icons do not match up very well with what they are supposed to represent, and the icons are not clickable for more information.  
 #### Severity rating: 2
-### 3. 
-User control and freedom	The design allows users to correct mistakes and provides an 'emergency exit' to leave unwanted actions.	Cancel button allows user to exit the current interaction.
-### 4.
-Consistency and standards	The design should be consistent with other platforms and industry standards so that they are easy for users to learn the system fast.	Clicking the home icon brings you to the homepage on all websites.
-### 5.
-Error prevention	The website is designed so that error-prone conditions are eliminated or checked and presented to users before they go through with the action.	A pop-up message appears when a user tries to exit a document after inputting information without saving it.
+### 3. User control and freedom
+#### Bad: 
+The website redirects you to a differnt page for some specifc resources such as NYC311 for payment. This may be confusing, and there are no clear exit signs. 
+#### Severity rating: 1
+### 4.Consistency and standards	
+#### Good:
+Search bar icon, font enlarger icon, language icon, and home icon are all standard with other websites.
+#### Bad: 
+As mentioned earlier in #2, there are icons used that do not match up very well with the actual meaning. These are found on the left of the slideshow on th ehomepage. Since they are on the home page, they should be adjusted. 
+#### Severity rating: 1
+### 5.Error prevention	
+The website is designed so that error-prone conditions are eliminated or checked and presented to users before they go through with the action.	A pop-up message appears when a user tries to exit a document after inputting information without saving it.
+#### Good:
+There are not too many areas to input information, most of the information input is for external websites. 
+#### Bad: 
+When you go to the external NYC 311 website, there is no "are you sure" pop up after signing up for an account and quitting before completion. This may be annoying if you accidentally quit it after inputting all information.  
+#### Severity rating: 1
 ### 6.
 Recognition rather than recall	The design of elements, actions, and options are clearly identifiable and information required to navigate the website is recognizable and accessible.	Microsoft Word lists out recently opened files that can be easily accessed and users do not need to remember where they saved them.
 ### 7.
