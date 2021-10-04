@@ -4,8 +4,10 @@
 ## Website 1: NYC Health
 <img width="1388" alt="nyc health- screenshot" src="https://user-images.githubusercontent.com/91767108/135786577-ca8f5077-7548-4eda-9dea-6d426d1aea66.png">
 
-##### Background information: This website is created by the New York City Department of Health and Mental Hygiene, and is used to provide citizens with resources to promote and protect the city's health. They provide a broad range of services ranging from Covid-19 health, restaurant health inspections, health clinics and birth certificates. You can access the website here: https://www1.nyc.gov/site/doh/index.page
-##### Website Overall feedback:
+##### Background information: 
+This website is created by the New York City Department of Health and Mental Hygiene, and is used to provide citizens with resources to promote and protect the city's health. They provide a broad range of services ranging from Covid-19 health, restaurant health inspections, health clinics and birth certificates. You can access the website here: https://www1.nyc.gov/site/doh/index.page
+##### Website Overall feedback: 
+This website has a lot of information, and right away you notice how many tabs, links and buttons there are. It is very confusing because on the top of the home page there are 3 links, on the black banner below you can see more words that do not clearly indicate that you can click on them. Overall, there are just many unclear links and tabs availible on this website, leading to a very cluttered look and feel. 
 
 # Design Feedback
 
