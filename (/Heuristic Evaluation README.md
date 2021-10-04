@@ -21,8 +21,7 @@ There is a scroller bar when scrolling down the website, so users know how long 
 There is no scroller bar when scrolling down the website, so users do not know how long the page is. This is crucial because the wbesite is already missing the resources button at the top of the page, and so users should be able to know where in the site they are while looking for resources. 
 There is no indication of system status when scrolling thorugh the slides on the main slideshow on the home page. This leads me to wonder where and when the slideshow ends. There is also  no feedback when typing into the search bar, such as pre populated word fetaure. 
 #### Severity rating: 1
-### 2. Match between system and the real world
-The design uses terms and concepts that are used in the real world and presents information in a familiar manner to users.	Elevator shows an up arrow when it is going up.
+### 2. Match between system and the real world 
 #### Good:
 The website uses real world applicable terms terms and so it seems familiar.
 #### Bad: 
@@ -38,8 +37,7 @@ Search bar icon, font enlarger icon, language icon, and home icon are all standa
 #### Bad: 
 As mentioned earlier in #2, there are icons used that do not match up very well with the actual meaning. These are found on the left of the slideshow on th ehomepage. Since they are on the home page, they should be adjusted. 
 #### Severity rating: 1
-### 5.Error prevention	
-The website is designed so that error-prone conditions are eliminated or checked and presented to users before they go through with the action.	A pop-up message appears when a user tries to exit a document after inputting information without saving it.
+### 5.Error prevention	 
 #### Good:
 There are not too many areas to input information, most of the information input is for external websites. 
 #### Bad: 
@@ -58,22 +56,19 @@ You are able to use control F to search on this website.
 #### Bad: 
 I did not notice any additional efficiency methods besides control F on this website. 
 #### Severity rating: 1
-### 8. 
-Aesthetic and minimalist design	The website is presented in a concise and useful manner and irrelevant or excessive elements that can interfere with usability should be ommited.	Learn more button allows users to obtain additional information if they want without overloading the original page.
+### 8.  
 #### Good: 
 The website uses icons for some parts of the site.
 #### Bad: 
 Overall, the website does not adhere to "Aesthetic and minimalist design" because it is very cluttered and has many buttons which are not clearly shown. The website could use an update on the overall look and feel to declutter and clean up the site. 
 #### Severity rating: 3
-### 9. 
-Help users recognize, diagnose, and recover from errors
+### 9. Help users recognize, diagnose, and recover from errors
 #### Good:
 The NYC 311 does show people an error message if their password is entered incorrectly.
 #### Bad: 
 I did not notice anything major within this design heursitc on the website. 
 #### Severity rating: 1
-### 10.
-Help and documentation	Resources are provided to clarify information and answer the questions of users.	FAQ page to answer frequently asked questions.
+### 10. Help and documentation	 
 #### Good:
 Resources are presented within departments, which may help users navogate what they are searching for. There is also a search bar at the top of the website.
 #### Bad: 
@@ -89,8 +84,6 @@ The Mission of the New York State Office of Mental Health is to promote the ment
 ##### Website Overall feedback: 
 This website is a bit misguiding because there is no immediate resources tab on the top of the page. You are only able to discover the resources upon scrolling down the page. Once you scroll down, you are shown the extensive list of resources. While it is good that the reosurces are so throuogh, they should be displayed in a more clear and upfront way so that users who are experiencing mental health issues or crisises may easily be able to access the help and information that they need.
 # Design feedback
-
-
 ### 1. Visibility of system status
 #### Bad: 
 There is no scroller bar when scrolling down the website, so users do not know how long the page is. This is crucial because the wbesite is already missing the resources button at the top of the page, and so users should be able to know where in the site they are while looking for resources. There is also no feedback when typing into the search bar, such as pre populated word feature. 
@@ -132,8 +125,7 @@ I did not notice any additional efficiency methods besides control F on this web
 #### Bad: 
 Overall, the website does not adhere to "Aesthetic and minimalist design" because it seems a bit outdated since there are no icons used, and there is walls of text everywhere.
 #### Severity rating: 3
-### 9. 
-Help users recognize, diagnose, and recover from errors
+### 9. Help users recognize, diagnose, and recover from errors
 #### Bad: 
 I did not notice anything major within this design heursitc on the website because there is no where to input information within the website.
 #### Severity rating: 1
