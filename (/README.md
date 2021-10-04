@@ -13,7 +13,7 @@
 ## Website 2: New York State Library 
 <img width="1175" alt="NYSL- SCREENSHOT" src="https://user-images.githubusercontent.com/91767108/135786657-ca69ecee-0dfa-48e6-9562-a93f513c861d.png">
 
-##### Background information: The New York State Library is part of the Office of Cultural Education, within the New York State Education Department. It has three different libraries inclusing the Research Library, the Talking Book and Braille Library, and the Division of Library Development. You can access the website here: https://www.nysl.nysed.gov
+##### Background information: The New York State Library is part of the Office of Cultural Education, within the New York State Education Department. It has three different libraries inclus]ding the Research Library, the Talking Book and Braille Library, and the Division of Library Development. You can access the website here: https://www.nysl.nysed.gov
 ##### Website Overall feedback:
 
 # Design Feedback
