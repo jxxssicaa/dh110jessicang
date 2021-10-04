@@ -1,8 +1,8 @@
 # DH110 Heuristic Evaluation  
-## Public resources in New York 
+## Public health resources in the state of New York
 ##### Jessica Ng 
 ##### About 
-This assignment will be evaluating two New York government websites for their design and usability. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end of the quarter. 
+This assignment will be evaluating two New York public health websites for their design and usability. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end. 
 
 ## Website 1: NYC Health
 <img width="1388" alt="nyc health- screenshot" src="https://user-images.githubusercontent.com/91767108/135786577-ca8f5077-7548-4eda-9dea-6d426d1aea66.png">
@@ -16,7 +16,7 @@ This website has a lot of information, and right away you notice how many tabs, 
 
 ### 1. Visibility of system status
 #### Good:
-There is a scroller bar when scrolling down the website, so users know how long the page is. 
+There is a scroller bar when scrolling down the website, so users know how long the page is. This is useful for users to be aware of where they are within the website.
 #### Bad: 
 There is no indication of system status when scrolling thorugh the slides on the main slideshow on the home page. This leads me to wonder where and when the slideshow ends. There is also  no feedback when typing into the search bar, such as pre populated word fetaure. 
 #### Severity rating: 1
@@ -51,9 +51,9 @@ The website uses icons to prompt users to different actions. This is identifiabl
 I do not think that this heuristic is a major problem on this website. 
 #### Severity rating: 1
 ### 7.
-Flexibility and efficiency of use	The design has flexible processes for both inexperienced and experienced users so that they can pick which ever method suits them best.	Shortcuts such as 'ctrl f' allow users to find anything they want on a document or website using keywords.
+Flexibility and efficiency of use	 
 #### Good: 
-You are able to use control F tosearch on this website. 
+You are able to use control F to search on this website. 
 #### Bad: 
 I did not notice any additional efficiency methods besides control F on this website. 
 #### Severity rating: 1
@@ -80,10 +80,10 @@ There is no FAQ page. Thbis would be a useful addition to the website considerin
 #### Severity rating: 1
 
 
-## Website 2: New York State Library 
-<img width="1175" alt="NYSL- SCREENSHOT" src="https://user-images.githubusercontent.com/91767108/135786657-ca69ecee-0dfa-48e6-9562-a93f513c861d.png">
+## Website 2: New York State Office of mental Health 
+<img width="1403" alt="omh- screenshot" src="https://user-images.githubusercontent.com/91767108/135917355-13a44284-0eb4-47a6-add1-549d8b137c63.png">
 
-##### Background information: The New York State Library is part of the Office of Cultural Education, within the New York State Education Department. It has three different libraries including the Research Library, the Talking Book and Braille Library, and the Division of Library Development. You can access the website here: https://www.nysl.nysed.gov
+##### Background information:The Mission of the New York State Office of Mental Health is to promote the mental health of all New Yorkers, with a particular focus on providing hope and recovery for adults with serious mental illness and children with serious emotional disturbances. The Office of Mental Health (OMH) operates psychiatric centers across the State. OMH also regulates, certifies and oversees more than 4,500 programs, operated by local governments and nonprofit agencies. You can access the website here: https://omh.ny.gov
 ##### Website Overall feedback:
 
 # Design Feedback
