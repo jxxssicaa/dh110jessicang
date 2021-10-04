@@ -1,4 +1,4 @@
 # dh110jessicang
 hi
-## my name is jessica 
+## This is for DH110 class assignment 1 
  
