@@ -1,4 +1,2 @@
-# dh110jessicang
-hi
-## This is for DH110 class assignment 1 
- 
+# DH110 Heuristic Evaluation 
+### Jessica Ng 
