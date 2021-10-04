@@ -1,7 +1,8 @@
-# DH110 Heuristic Evaluation 
+# DH110 Heuristic Evaluation  
 ## Public resources in New York 
 ##### Jessica Ng 
-##### This assignment will be evaluating two New York government websites. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end of the quarter. 
+##### About
+This assignment will be evaluating two New York government websites. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end of the quarter. 
 
 ## Website 1: NYC Health
 <img width="1388" alt="nyc health- screenshot" src="https://user-images.githubusercontent.com/91767108/135786577-ca8f5077-7548-4eda-9dea-6d426d1aea66.png">
@@ -28,7 +29,7 @@ The website has icons that indicate things such as trash for "collections not in
 #### Severity rating: 2
 ### 3. User control and freedom
 #### Bad: 
-The website redirects you to a differnt page for some specifc resources such as NYC311 for payment. This may be confusing, and there are no clear exit signs. 
+The website redirects you to a different page for some specifc resources such as NYC311 for payment. This may be confusing, and there are no clear exit signs. 
 #### Severity rating: 1
 ### 4.Consistency and standards	
 #### Good:
@@ -43,16 +44,29 @@ There are not too many areas to input information, most of the information input
 #### Bad: 
 When you go to the external NYC 311 website, there is no "are you sure" pop up after signing up for an account and quitting before completion. This may be annoying if you accidentally quit it after inputting all information.  
 #### Severity rating: 1
-### 6.
-Recognition rather than recall	The design of elements, actions, and options are clearly identifiable and information required to navigate the website is recognizable and accessible.	Microsoft Word lists out recently opened files that can be easily accessed and users do not need to remember where they saved them.
+### 6. Recognition rather than recall	The design of elements, actions, and options are clearly identifiable and information required to navigate the website is recognizable and accessible.	Microsoft Word lists out recently opened files that can be easily accessed and users do not need to remember where they saved them.
+#### Good:
+#### Bad: 
+#### Severity rating: 1
 ### 7.
 Flexibility and efficiency of use	The design has flexible processes for both inexperienced and experienced users so that they can pick which ever method suits them best.	Shortcuts such as 'ctrl f' allow users to find anything they want on a document or website using keywords.
+#### Good:
+#### Bad: 
+#### Severity rating: 1
 ### 8. 
-Aesthetic and minimalist design	The website is presented in a concise and useful manner and irrelevant or excessive elements that can interfere with usability should be ommited.	Learn more button allows users to obtain additional information if they want without overloading the original page.
+Aesthetic and minimalist design	The website is presented in a concise and useful manner and irrelevant or excessive elements that can interfere with usability should be ommited.	Learn more button allows users to obtain additional information if they want without overloading the original page.#### Good:
+#### Bad: 
+#### Severity rating: 1
 ### 9. 
 Help users recognize, diagnose, and recover from errors	Error message expressed in simple terms and presented so that users can recognize and solve them.	When a wrong password is inputted, the website/app notifies users that it is wrong and gives the option to create a new password through the 'Forget Password?' option.
+#### Good:
+#### Bad: 
+#### Severity rating: 1
 ### 10.
 Help and documentation	Resources are provided to clarify information and answer the questions of users.	FAQ page to answer frequently asked questions.
+#### Good:
+#### Bad: 
+#### Severity rating: 1
 
 
 ## Website 2: New York State Library 
