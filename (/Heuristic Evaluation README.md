@@ -3,29 +3,6 @@
 ##### Jessica Ng 
 ##### This assignment will be evaluating two New York government websites. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end of the quarter. 
 
-
-# Heuristic	Description	Example
-### 1. Visibility of system status
-The design communicates clearly to users about what is going on, which allows them to learn and understand interactions with different components.	Battery status bar shows the amount of battery life remaining on a device.
-### 2. 
-Match between system and the real world	The design uses terms and concepts that are used in the real world and presents information in a familiar manner to users.	Elevator shows an up arrow when it is going up.
-### 3. 
-User control and freedom	The design allows users to correct mistakes and provides an 'emergency exit' to leave unwanted actions.	Cancel button allows user to exit the current interaction.
-### 4.
-Consistency and standards	The design should be consistent with other platforms and industry standards so that they are easy for users to learn the system fast.	Clicking the home icon brings you to the homepage on all websites.
-### 5.
-Error prevention	The website is designed so that error-prone conditions are eliminated or checked and presented to users before they go through with the action.	A pop-up message appears when a user tries to exit a document after inputting information without saving it.
-### 6.
-Recognition rather than recall	The design of elements, actions, and options are clearly identifiable and information required to navigate the website is recognizable and accessible.	Microsoft Word lists out recently opened files that can be easily accessed and users do not need to remember where they saved them.
-### 7.
-Flexibility and efficiency of use	The design has flexible processes for both inexperienced and experienced users so that they can pick which ever method suits them best.	Shortcuts such as 'ctrl f' allow users to find anything they want on a document or website using keywords.
-### 8. 
-Aesthetic and minimalist design	The website is presented in a concise and useful manner and irrelevant or excessive elements that can interfere with usability should be ommited.	Learn more button allows users to obtain additional information if they want without overloading the original page.
-### 9. 
-Help users recognize, diagnose, and recover from errors	Error message expressed in simple terms and presented so that users can recognize and solve them.	When a wrong password is inputted, the website/app notifies users that it is wrong and gives the option to create a new password through the 'Forget Password?' option.
-### 10.
-Help and documentation	Resources are provided to clarify information and answer the questions of users.	FAQ page to answer frequently asked questions.
-
 ## Website 1: NYC Health
 <img width="1388" alt="nyc health- screenshot" src="https://user-images.githubusercontent.com/91767108/135786577-ca8f5077-7548-4eda-9dea-6d426d1aea66.png">
 
@@ -37,10 +14,18 @@ This website has a lot of information, and right away you notice how many tabs, 
 # Design Feedback
 
 ### 1. Visibility of system status
-Evaluation: 
-Severity rating: 
-### 2. 
-Match between system and the real world	The design uses terms and concepts that are used in the real world and presents information in a familiar manner to users.	Elevator shows an up arrow when it is going up.
+#### Good:
+There is a scroller bar when scrolling down the website, so users know how long the page is. 
+#### Bad: 
+There is no indication of system status when scrolling thorugh the slides on the main slideshow on the home page. This leads me to wonder where and when the slideshow ends. There is also  no feedback when typing into the search bar, such as pre populated word fetaure. 
+#### Severity rating: 2
+### 2. Match between system and the real world
+The design uses terms and concepts that are used in the real world and presents information in a familiar manner to users.	Elevator shows an up arrow when it is going up.
+#### Good:
+The website uses real worl applicable terms terms and so it seems familiar.
+#### Bad: 
+The website has icons that indicate things such as trash for "collections not in effect" and a book for "Schools not in session." These icons do not match up very well with what they are supposed to represent, and the icons are not clickable for more information.  
+#### Severity rating: 2
 ### 3. 
 User control and freedom	The design allows users to correct mistakes and provides an 'emergency exit' to leave unwanted actions.	Cancel button allows user to exit the current interaction.
 ### 4.
