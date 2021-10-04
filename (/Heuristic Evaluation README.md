@@ -1,8 +1,8 @@
 # DH110 Heuristic Evaluation  
 ## Public resources in New York 
 ##### Jessica Ng 
-##### About
-This assignment will be evaluating two New York government websites. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end of the quarter. 
+##### About 
+This assignment will be evaluating two New York government websites for their design and usability. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end of the quarter. 
 
 ## Website 1: NYC Health
 <img width="1388" alt="nyc health- screenshot" src="https://user-images.githubusercontent.com/91767108/135786577-ca8f5077-7548-4eda-9dea-6d426d1aea66.png">
@@ -44,28 +44,39 @@ There are not too many areas to input information, most of the information input
 #### Bad: 
 When you go to the external NYC 311 website, there is no "are you sure" pop up after signing up for an account and quitting before completion. This may be annoying if you accidentally quit it after inputting all information.  
 #### Severity rating: 1
-### 6. Recognition rather than recall	The design of elements, actions, and options are clearly identifiable and information required to navigate the website is recognizable and accessible.	Microsoft Word lists out recently opened files that can be easily accessed and users do not need to remember where they saved them.
+### 6. Recognition rather than recall	 
 #### Good:
+The website uses icons to prompt users to different actions. This is identifiable and helps users to navigate the website. There is a lot of information in the contact us tab that helps users to choose which way to contact different departments. 
 #### Bad: 
+I do not think that this heuristic is a major problem on this website. 
 #### Severity rating: 1
 ### 7.
 Flexibility and efficiency of use	The design has flexible processes for both inexperienced and experienced users so that they can pick which ever method suits them best.	Shortcuts such as 'ctrl f' allow users to find anything they want on a document or website using keywords.
-#### Good:
+#### Good: 
+You are able to use control F tosearch on this website. 
 #### Bad: 
+I did not notice any additional efficiency methods besides control F on this website. 
 #### Severity rating: 1
 ### 8. 
-Aesthetic and minimalist design	The website is presented in a concise and useful manner and irrelevant or excessive elements that can interfere with usability should be ommited.	Learn more button allows users to obtain additional information if they want without overloading the original page.#### Good:
+Aesthetic and minimalist design	The website is presented in a concise and useful manner and irrelevant or excessive elements that can interfere with usability should be ommited.	Learn more button allows users to obtain additional information if they want without overloading the original page.
+#### Good: 
+The website uses icons for some parts of the site.
 #### Bad: 
-#### Severity rating: 1
+Overall, the website does not adhere to "Aesthetic and minimalist design" because it is very cluttered and has many buttons which are not clearly shown. The website could use an update on the overall look and feel to declutter and clean up the site. 
+#### Severity rating: 3
 ### 9. 
-Help users recognize, diagnose, and recover from errors	Error message expressed in simple terms and presented so that users can recognize and solve them.	When a wrong password is inputted, the website/app notifies users that it is wrong and gives the option to create a new password through the 'Forget Password?' option.
+Help users recognize, diagnose, and recover from errors
 #### Good:
+The NYC 311 does show people an error message if their password is entered incorrectly.
 #### Bad: 
+I did not notice anything major within this design heursitc on the website. 
 #### Severity rating: 1
 ### 10.
 Help and documentation	Resources are provided to clarify information and answer the questions of users.	FAQ page to answer frequently asked questions.
 #### Good:
+Resources are presented within departments, which may help users navogate what they are searching for. There is also a search bar at the top of the website.
 #### Bad: 
+There is no FAQ page. Thbis would be a useful addition to the website considering how much information and resources are contained within it. 
 #### Severity rating: 1
 
 
