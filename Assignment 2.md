@@ -1,4 +1,4 @@
-# DH110 Heuristic Evaluation 
+# DH110 Heuristic Evaluation
 
 
 One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of your heuristic evaluation. 
