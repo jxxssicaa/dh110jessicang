@@ -38,8 +38,7 @@ I chose to conduct contextual inquiry thorugh a virtual interview. I chose this 
 
 ## ✅ Step 4: Conducting the Research
 
-Transcript:
-Transcript with answers:
+Interview question guide: https://docs.google.com/document/d/1vPVkEpS36SfVV8zfjkcpocvhHRMDgxJnNfd1bJqb7dk/edit#
+Interview transcript: https://docs.google.com/document/d/1q91D4NgudgQJT-r-ThTqTfb9J9biE22njzqMtVl5v_U/edit
 Video interview file: 
-
 ## ✅ Step 5: Reflection
