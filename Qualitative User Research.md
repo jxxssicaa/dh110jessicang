@@ -4,7 +4,7 @@
 
 #### What is the main activity your project would support the users in accomplishing?
 
-This project will help users locate public health resources and people to contact in a straightforward and intuitive manner.  
+I want to create a website that empowers the public to access public health resource that their state provides. I noticed a disconnect between public health resources that were availible and people actually being aware of usuch resources. This project will help users locate public health resources and people to contact in a straightforward and intuitive manner.  
 
 #### What is the basic need involved for that activity?
 
@@ -16,19 +16,15 @@ The traditional solution to locate resources is to go to doctors offices, govern
 
 #### What are the limitations that possibly would be improved with (digital) technology?
 
-Limitations iclude not being aware of all the resources offered, and not knowing how to get in touch with your desired department.  
+Limitations include not being aware of all the resources offered, and not knowing how to get in touch with your desired department.  
 
 ## ✅ Step 2: Target Users 
 
 #### What are the characteristics of users?
 
-I want to create a website that empowers the public to access public health resource sthat hteir state provides. I noticed a disconnect between public health resources that were availible and people actually being aware of usuch resources. Since this will be a website, users must have access to the internet.
-
 Demographics: students, working adults, and anyone with internet access
 
 Preferences: Users who are interested in public health resources, and community resources. 
-
-Expertise: users do not need any expertise.  
 
 ## ✅ Step 3: Pick Research Methods
 
@@ -39,6 +35,9 @@ I chose to conduct contextual inquiry thorugh a virtual interview. I chose this 
 ## ✅ Step 4: Conducting the Research
 
 Interview question guide: https://docs.google.com/document/d/1vPVkEpS36SfVV8zfjkcpocvhHRMDgxJnNfd1bJqb7dk/edit#
+
 Interview transcript: https://docs.google.com/document/d/1q91D4NgudgQJT-r-ThTqTfb9J9biE22njzqMtVl5v_U/edit
-Video interview file: 
+
+Video interview file: https://drive.google.com/file/d/18fNOrjyOYDLWH4VAUGXLW2-e4dEpabIH/view?usp=sharing
+
 ## ✅ Step 5: Reflection
