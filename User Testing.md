@@ -1,10 +1,10 @@
 # DH110 User Testing 
 
-### Jessia Ng 
+### Jessica Ng 
 
 ## User testing Background 
 
-I just completed one pilot round of user testing on the New York health government website and the purpose of the user testing conducted was to find out how easy the New York Health goverment's website is to navigate and how simple it is to learn. I conducted this study on a participant who has never used this website before. My heuristic evaluation showed me that the main issues of the site are the navigational issues as the website has many resources, yet not a very clear way to locate the resources. Therefore, I focused 3 tasks around asking my test participant to locate several different items around the website, including finding resources and contacting the New York mayor. I wanted to see how fast he would be able to navigate around the website, and complete the tasks I had requested. 
+I just completed one pilot round of user testing on the New York health government website. The purpose of the user testing conducted was to find out how easy the New York Health goverment's website is to navigate and how simple it is to learn. I conducted this study on a participant who has never used this website before. My heuristic evaluation showed me that the main issues of the site are the navigational issues as the website has many resources, yet not a very clear way to locate the resources. Therefore, I focused 3 tasks around asking my test participant to locate several different items around the website, including finding resources and contacting the New York mayor. I wanted to see how fast he would be able to navigate around the website, and complete the tasks I had requested. 
 
 ## 3 main  design issues: 
 
