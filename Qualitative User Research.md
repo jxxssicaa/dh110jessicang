@@ -25,13 +25,21 @@ Limitations iclude not being aware of all the resources offered, and not knowing
 I want to create a website that empowers the public to access public health resource sthat hteir state provides. I noticed a disconnect between public health resources that were availible and people actually being aware of usuch resources. Since this will be a website, users must have access to the internet.
 
 Demographics: students, working adults, and anyone with internet access
+
 Preferences: Users who are interested in public health resources, and community resources. 
+
 Expertise: users do not need any expertise.  
 
 ## ✅ Step 3: Pick Research Methods
 
 #### Methods
 
-## ✅ Step 4: Observation/Interview Guide
-## ✅ Step 5: Conducting the Research
-## ✅ Step 6: Reflection
+I chose to conduct contextual inquiry thorugh a virtual interview. I chose this method because I wanted to get a first hand account of the issues people face while locating resources online. The interview was conducted over Zoom.  
+
+## ✅ Step 4: Conducting the Research
+
+Transcript:
+Transcript with answers:
+Video interview file: 
+
+## ✅ Step 5: Reflection
