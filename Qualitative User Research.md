@@ -16,22 +16,17 @@ The traditional solution to locate resources is to go to doctors offices, govern
 
 #### What are the limitations that possibly would be improved with (digital) technology?
 
-Limitations iclude not being awar eof all the resources offered, and not knowing how to get in touch with your desired department.  
+Limitations iclude not being aware of all the resources offered, and not knowing how to get in touch with your desired department.  
 
 ## ✅ Step 2: Target Users 
 
 #### What are the characteristics of users?
 
-Demographics: students (high school, college undergraduates), working adults, and people who are college-educated
-Preferences: users read as a hobby, or want to read for personal development, and thus would want to keep track of books they read and get book recommendations
-Expertise: users would not need any particular level of expertise for this project
-#### Where would the users do that activity?
+I want to create a website that empowers the public to access public health resource sthat hteir state provides. I noticed a disconnect between public health resources that were availible and people actually being aware of usuch resources. Since this will be a website, users must have access to the internet.
 
-Users can keep track of books anywhere; in the traditional method, as long as they have a piece of paper and pen, they can write down what book they read. In a digital method, users can log what they read anywhere at anytime, as long as they have their device.
-When finding books to read, users may do that activity in many different places—a library or a bookstore, or even in daily conversations with their family, friends, or co-workers, or online in an online book recommendation.
-#### What would the users do to complete that activity?
-
-The goal of the users would be to log a book they read. To do that, they would either physically write down information about that book, or type it in a device to record information. To find a book to read, users may search online, go to a library or bookstore to browse books on their own or ask the staff, or ask their friends or family about book recommendations.
+Demographics: students, working adults, and anyone with internet access
+Preferences: Users who are interested in public health resources, and community resources. 
+Expertise: users do not need any expertise.  
 
 ## ✅ Step 3: Pick Research Methods
 
