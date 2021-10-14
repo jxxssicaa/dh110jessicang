@@ -40,4 +40,8 @@ Interview transcript: https://docs.google.com/document/d/1q91D4NgudgQJT-r-ThTqTf
 
 Video interview file: https://drive.google.com/file/d/18fNOrjyOYDLWH4VAUGXLW2-e4dEpabIH/view?usp=sharing
 
+#### Interesting Insights
+
 ## ✅ Step 5: Reflection
+
+
