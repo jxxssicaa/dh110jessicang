@@ -40,7 +40,27 @@ Interview transcript: https://docs.google.com/document/d/1q91D4NgudgQJT-r-ThTqTf
 
 Video interview file: https://drive.google.com/file/d/18fNOrjyOYDLWH4VAUGXLW2-e4dEpabIH/view?usp=sharing
 
-#### Interesting Insights
+#### Interview Insights
+
+ 
+1️⃣ User feels that finding public health resources is very important. 
+
+Q: How important is it for you to be able to find public health resources online and why?
+
+A: Very important because you cannot just go to the hospital anytime. You know how a hospital works right or clinics work, you have to make an appointment, and then when get there you have to wait for a long time, even when you're already on time, you have to wait for one hour and only get to talk to a doctor for five minutes, so it's very important to be able to find information online and do self diagnosis first.
+
+2️⃣ The user feels a disconnect between resources and citizens knowing what resources are availible.
+
+Q: Do you think there is a disconnect between government health resources available, and people having knowledge of what is available?
+
+A: Yeah, I definitely think so, yes. Yeah, I know many people don't know California actually has medical, which is a California free medical insurance for low income people. So, this information is not advertised very much by the state.
+
+3️⃣ Finding someone to actually speak with is a big problem. 
+
+Q: What is the most difficult problem you face when searching for public resources online? 
+
+A: Finding someone to talk to. It's very difficult because you can see all information, but it's almost impossible to find someone to actually talk to you, unless you go to see a doctor. So you'd be nice to have to find somebody to talk to them. This person can give you some guidance for all and can actually give you some pointers, where to go, what to do.
+
 
 ## ✅ Step 5: Reflection
 
