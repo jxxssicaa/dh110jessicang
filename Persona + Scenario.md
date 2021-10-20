@@ -7,6 +7,10 @@ UX storytelling is important because it forces you to think as the user would, a
 ## 👤 Persona & Empathy Map
 ### Persona 1:
 
+
+![Rectangle 1](https://user-images.githubusercontent.com/91767108/138033656-f9893faf-b63b-47a7-8ff5-f16da9507182.jpg)
+
+
 Needs mental health navigation help
 ### Persona 2:
 needs to be able to eaisly mkae dr appointments and find low cost clinics
