@@ -8,7 +8,7 @@ UX storytelling is important because it forces you to think as the user would, a
 ### Persona 1:
 
 
-![Rectangle 1](https://user-images.githubusercontent.com/91767108/138033656-f9893faf-b63b-47a7-8ff5-f16da9507182.jpg) 
+<img width="516" alt="Screen Shot 2021-10-19 at 10 50 23 PM" src="https://user-images.githubusercontent.com/91767108/138035649-4505ddcf-c1cb-4aa2-beb8-fddfe959e857.png">
 
 
 
