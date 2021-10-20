@@ -39,9 +39,17 @@ TWO of Persona + empathy maps + scenarios + Journey maps
 
 ## 🗺  Journey Maps
 
-Why David is using this product
+Why Anne is using this product
 
-David is a retired English teacher living in Seattle with his wife. He wants to talk and interact with his grandchildren, who are ages 10 and 14 and live in San Francisco. He decides that recommending books would be a good way to connect with them, since he knows about many good classic novels. Because he reads many books at the same time, he also wants to keep track of his thoughts on a book, so that he can immediately remember where he left off in the story. However, David only needs these two features, so he really wants something that is simple to use.
-How David is using this product
+Anne is a social worker that has just recently relocated to New York City. Despite her initial optimism for the big change in her lifestyle, she has found herself feeling a bit isolated from the city. She is looking for a way to connect with the community, but more urgently she needs access to mental health resources. Because her mental health is very bad due to feeling alone in the new city, she needs immediate help and therefore needs to be able to easily locate and access mental health reosurces in New York. Since her immediate concern is finidng mental health resources, she needs somethng that will direct her to help as quickly as possible. 
 
-Since his older grandchild asked if he knows any historical fiction novels, David decides to share with him All Quiet on the Western Front. He searches the title in the search bar, then finds the book as the first result. He clicks on it, and then clicks the “share” button. The shared book goes to the private group he has with his grandchildren on the application. Then, he goes back to the home screen, where he clicks on the “notes” section, because he wants to read a book he has not touched in a few weeks. He jogs his memory by reading his notes, and starts reading the book.
+How Anne is using this product
+
+
+Why Beth is using this product
+
+Anne is a social worker that has just recently relocated to New York City. Despite her initial optimism for the big change in her lifestyle, she has found herself feeling a bit isolated from the city. She is looking for a way to connect with the community, but more urgently she needs access to mental health resources. Because her mental health is very bad due to feeling alone in the new city, she needs immediate help and therefore needs to be able to easily locate and access mental health reosurces in New York. Since her immediate concern is finidng mental health resources, she needs somethng that will direct her to help as quickly as possible. 
+
+How Beth is using this product
+
+
