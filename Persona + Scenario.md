@@ -39,17 +39,17 @@ TWO of Persona + empathy maps + scenarios + Journey maps
 
 ## 🗺  Journey Maps
 
-Why Anne is using this product
+### Why Anne is using this product
 
 Anne is a social worker that has just recently relocated to New York City. Despite her initial optimism for the big change in her lifestyle, she has found herself feeling a bit isolated from the city. She is looking for a way to connect with the community, but more urgently she needs access to mental health resources. Because her mental health is very bad due to feeling alone in the new city, she needs immediate help and therefore needs to be able to easily locate and access mental health reosurces in New York. Since her immediate concern is finidng mental health resources, she needs somethng that will direct her to help as quickly as possible. 
 
-How Anne is using this product
+### How Anne is using this product
 
 
-Why Beth is using this product
+### Why Beth is using this product
 
 Anne is a social worker that has just recently relocated to New York City. Despite her initial optimism for the big change in her lifestyle, she has found herself feeling a bit isolated from the city. She is looking for a way to connect with the community, but more urgently she needs access to mental health resources. Because her mental health is very bad due to feeling alone in the new city, she needs immediate help and therefore needs to be able to easily locate and access mental health reosurces in New York. Since her immediate concern is finidng mental health resources, she needs somethng that will direct her to help as quickly as possible. 
 
-How Beth is using this product
+### How Beth is using this product
 
 
