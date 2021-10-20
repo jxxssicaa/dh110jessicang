@@ -2,7 +2,7 @@
 ##### Jessica Ng 
 
 ## 📖 Digital Story Telling's Purpose
-UX storytelling is important because it forces you to think as the user would, and help you to share how they think. Personas can help you to image your user, and to share their needs and problems. I will be using story telling and user personas to share the problems and thought processes of my target users. These target users were created on the scenario that they would be likely users of my revised version of the New York Public Health website.
+UX storytelling is important because it forces you to think as the user would, and help you to share how they think. Personas can help you to imagine your users, and to share their needs and problems. I will be using story telling and user personas to share the problems and thought processes of my target users. These target users were created on the scenario that they would be likely users of the New York Public Health website.
 
 
 ## New feature proposals for the New York Public Health website
