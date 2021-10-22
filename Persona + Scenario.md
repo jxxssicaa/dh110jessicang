@@ -46,10 +46,23 @@ Anne is a social worker that has just recently relocated to New York City. Despi
 ### How Anne is using this product
 
 
+
+<img width="592" alt="Screen Shot 2021-10-21 at 6 46 38 PM" src="https://user-images.githubusercontent.com/91767108/138380169-7755c033-7ca6-4530-9c5c-36827e8429fc.png">
+
+
+
+
+
 ### Why Beth is using this product
 
 Anne is a social worker that has just recently relocated to New York City. Despite her initial optimism for the big change in her lifestyle, she has found herself feeling a bit isolated from the city. She is looking for a way to connect with the community, but more urgently she needs access to mental health resources. Because her mental health is very bad due to feeling alone in the new city, she needs immediate help and therefore needs to be able to easily locate and access mental health reosurces in New York. Since her immediate concern is finidng mental health resources, she needs somethng that will direct her to help as quickly as possible. 
 
 ### How Beth is using this product
+
+
+
+
+<img width="590" alt="Screen Shot 2021-10-21 at 6 46 51 PM" src="https://user-images.githubusercontent.com/91767108/138380178-8fbe880a-d25d-4e22-b327-0da26fa3ed97.png">
+
 
 
