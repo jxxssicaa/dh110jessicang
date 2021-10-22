@@ -9,9 +9,9 @@ UX storytelling is important because it forces you to think as the user would, a
 
 After conducting a heuristic evaluation and user testing on the New York Public Health website, I have identified some key features which I believe should be included. 
 
- #### 1️⃣  Quick access to mental health resources 
+ #### 1️⃣  Quick & direct access to mental health resources 
  
- #### 2️⃣  Improved navigation for finding doctors and low health cost health clinics
+ #### 2️⃣  Search bar and messaging feature for finding doctors and low health cost health clinics
 
 
 ## 👤 Persona & Empathy Maps
