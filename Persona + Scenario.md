@@ -31,11 +31,7 @@ Needs mental health navigation help
 
 
 <img width="579" alt="Screen Shot 2021-10-19 at 10 47 28 PM" src="https://user-images.githubusercontent.com/91767108/138035357-4c619065-da68-45c6-9e41-726d3e4513c6.png">
-
-needs to be able to eaisly mkae dr appointments and find low cost clinics
-Two features you want to propose for the ux design
-TWO of Persona + empathy maps + scenarios + Journey maps 
-
+ 
 
 ## 🗺  Journey Maps
 
@@ -55,7 +51,7 @@ Anne is a social worker that has just recently relocated to New York City. Despi
 
 ### Why Beth is using this product
 
-Anne is a social worker that has just recently relocated to New York City. Despite her initial optimism for the big change in her lifestyle, she has found herself feeling a bit isolated from the city. She is looking for a way to connect with the community, but more urgently she needs access to mental health resources. Because her mental health is very bad due to feeling alone in the new city, she needs immediate help and therefore needs to be able to easily locate and access mental health reosurces in New York. Since her immediate concern is finidng mental health resources, she needs somethng that will direct her to help as quickly as possible. 
+Anne is a social worker that has just recently relocated to New York City. Despite her initial optimism for the big change in her lifestyle, she has found herself feeling a bit isolated from the city. She is looking for a way to connect with the community, but more urgently she needs access to mental health resources. Because her mental health is very bad due to feeling alone in the new city, she needs immediate help and therefore needs to be able to easily locate and access mental health reosurces in New York. Since her immediate concern is findng mental health resources, she needs somethng that will direct her to help as quickly as possible. 
 
 ### How Beth is using this product
 
