@@ -11,8 +11,10 @@ The current project aims to resolve user issues with public health resources and
 
  Due to my previous user research, the features that would be most beneficial to the target users are listed below.
 
-1)Direct and easy access to mental health resources - Located directly on home page, and linking to various resources.
-2)Messaging and filtering thtough doctors - Locating and messaging nearby doctors and mental health physicians based on price and location.
+## 1. Direct and easy access to mental health resources 
+Located directly on home page, and linking to various resources.
+## 2. Messaging and filtering through doctors 
+Locating and messaging nearby doctors and mental health physicians based on price and location.
 
 The purpose of this low fidelity protype is to test both the flow and functionality these exttra features would require when added onto a public health website.  
 
