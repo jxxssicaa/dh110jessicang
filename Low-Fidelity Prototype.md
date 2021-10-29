@@ -26,14 +26,15 @@ The low-fidelity prototype supports the following tasks:
 
 Access menal health resource page 
 Find a doctor with filter options 
+
 Look at doctor's location from you 
 Look at the doctor's profiles
 Message the doctor 
 
 ## Wireframes and Wireflows
 
-Include reviews page and include chat history "inbox" page. In my low fidel!
 
+![IMG_6900](https://user-images.githubusercontent.com/91767108/139353858-45f98294-002d-46d1-959c-cef7286b0198.jpg) 
 
 Flow Description: The flow allows people to directly search for a doctor based on their needs. They can apply filters to help select a doctor for either their physical or mental health easily. The users can continue to narrow down their results by adding on if they need a mental health or physical health specialist, as well as type into the search bar the issues that they have. After the user inputs their desired settings, they will be led to a page with map and list of nearby doctors that match their selections. The user can click on the map to see where exactly all the doctors are located. Or the user can select a doctor and they will be taken to a page where they can see the doctors picture, a reference of what items from the checklist the doctor has, and an option to message the doctor's office. The user can then click on the message button to directly chat on the website, or they can refer to the doctors number.
 
