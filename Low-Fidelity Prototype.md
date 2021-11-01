@@ -44,7 +44,15 @@ Features Description: The search for doctor feature allows the user to input wha
 
 ## Prototype Testing 
 
-Confusions and/or unexpected interactions: 
+
+
+https://user-images.githubusercontent.com/91767108/139735496-3bcb9521-66d0-4719-ae3c-4cf7508a7f5a.mov
+
+
+
+Confusions & unexpected interactions: 
+
+
 
 ## Reflection 
 
