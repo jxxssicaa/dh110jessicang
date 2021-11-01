@@ -60,10 +60,11 @@ https://user-images.githubusercontent.com/91767108/139735496-3bcb9521-66d0-4719-
 
 
 
-Confusions & unexpected interactions: 
+#### Confusions & unexpected interactions: 
+I asked my test user to complete two tasks. First, to find a doctor and second to message the doctor. One part that my test user got confused on was going from filtering thorugh doctors and the going into the results page. He went straight from the fitering page to the map of the doctors lcoations nearby. I had initially designed it to go from the doctor filter page into the list of doctors, rather than the map.
 
 
 
 ## Reflection 
 
-
+Overall, I think that the prototype testing went very well as my user was able to complete both tasks I had asked him to do. He was able to use all the features that I had in the wireframe, and only got confused on the flow for the first task of finding the list of doctors. I will have to adjust the results page to make it more obvious for other users by making the headline bigger. Therefore, the features seemed to be funtioning, however flow could use improvement. I plan on also working on the filtering options so that it is easier to use and notice all the different button options. I learned that low fidelity protypes are useful to test because you can see how your potential user wpuld actually navigate your app, and therefore find the things that you should app onto the mockup. As I was creating my wireframes, I thought about how I needed to add buttons shuch as "back" buttons or "go" buttons so that it would be more clear for my user where to go.
