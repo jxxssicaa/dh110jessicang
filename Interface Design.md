@@ -15,9 +15,7 @@ I decided to focus on the following features:
 
 Provide link to digitized wireflow
 
-<img width="917" alt="Screen Shot 2021-11-07 at 6 53 22 PM" src="https://user-images.githubusercontent.com/91767108/140677136-8b917437-3eab-49ef-a291-ade59535833a.png">
-
-https://www.figma.com/proto/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=20%3A1377&scaling=min-zoom&page-id=20%3A874&starting-point-node-id=20%3A1377&show-proto-sidebar=1
+<img width="917" alt="Screen Shot 2021-11-07 at 6 53 22 PM" src="https://user-images.githubusercontent.com/91767108/140677136-8b917437-3eab-49ef-a291-ade59535833a.png"> 
 
 https://www.figma.com/file/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=0%3A1
 
@@ -31,8 +29,20 @@ https://www.figma.com/file/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=20%3
 
 
 Description of your decision making process about the final graphical interface design
+
+I decided to choose the purple color family for my color choice after checking color contrasts on Spark plugin. I decided on sans seriff font to create a clean and modern look and feel to the app. Next, I wanted to use more icons that are easily recognizable such as the message buttons, back buttons, and search bar. My final graphical design was focused on making the user experience as easy as possible, and making sure that the user felt like it was simple to locate things that they are looking for. I also included the back button and top tab bar in every page so that the user would never feel stuck, and would be able to easily go back, or go onto another page through the tab bar.
+
 Evidence of impression test
 
+I asked my test user to try and complete three tasks. 
+
+These three tasks are listed as follows: 
+
+1. Message a doctor 
+2. Find the location map of doctors nearby
+3. Locate the mental health hotline
+
+My test user was able to quickly complete all three tasks without roadblocks or problems. 
 
 Evidence of accessibility (color-contrast at least) check
 
