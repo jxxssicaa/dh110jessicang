@@ -50,7 +50,13 @@ These three tasks are listed as follows:
 2. Find the location map of doctors nearby
 3. Locate the mental health hotline
 
-My test user was able to quickly complete all three tasks without roadblocks or problems. The video evidence of the user testing conducted is here:
+The first task my user got a bit confused by the filter results that said "message now." He clicked on the filter result a few times assuming that it would lead him to the message center. He was able to complete the last two tasks quickly without roadblocks or problems. 
+
+The video evidence of the user testing conducted is here:
+
+
+https://user-images.githubusercontent.com/91767108/140699480-e5cc720e-e4ff-4b82-b609-f983ddfc9211.mp4
+
 
 ### Color Contrast Test  
 
