@@ -22,8 +22,6 @@ You can access my complete wireflow here: https://www.figma.com/file/2X2w6qk49IB
 
 ### Graphical User Interface Design Variation
 
-Provide the evidence of graphical user interface design variation (typography, shape, colors)
-
 #### Color Variation 
 <img width="856" alt="Screen Shot 2021-11-07 at 6 55 45 PM" src="https://user-images.githubusercontent.com/91767108/140677335-5c273701-b521-4309-848f-d7892a1b61df.png">
 
