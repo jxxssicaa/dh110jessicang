@@ -27,11 +27,15 @@ Provide the evidence of graphical user interface design variation (typography, s
 #### Color Variation 
 <img width="856" alt="Screen Shot 2021-11-07 at 6 55 45 PM" src="https://user-images.githubusercontent.com/91767108/140677335-5c273701-b521-4309-848f-d7892a1b61df.png">
 
-#### Typography Vraiation 
+#### Typography Variation 
+
+<img width="564" alt="Screen Shot 2021-11-07 at 7 15 00 PM" src="https://user-images.githubusercontent.com/91767108/140678959-d342a11f-7798-407e-8dec-6bb3bd04dc2e.png">
 
 #### Shape Variation 
 
-You can access my variations on Figma here: https://www.figma.com/file/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=20%3A874
+<img width="688" alt="Screen Shot 2021-11-07 at 7 15 09 PM" src="https://user-images.githubusercontent.com/91767108/140678973-1c56911b-948a-4502-bab7-dcf106bc6396.png">
+
+You can access all of my variations on Figma here: https://www.figma.com/file/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=20%3A874
 
 
 ### Decision Making Process 
