@@ -6,7 +6,7 @@
 
 ### Project Description and Purpose
 
-My project focuses on improving the New York Public Health website after conducting user testing on the flow. I decided to create a mobile app with features that my test users had requested, and based on changes and features that I believed should be implemented after conducting a heaursitic evaluation. I created this interface design on Figma and cretaed an entirely new mobile app version of the New York public health website. 
+My project focuses on improving the New York Public Health website after conducting user testing on the flow. I decided to create a mobile app with features that my test users had requested, and based on changes and features that I believed should be implemented after conducting a heuristic evaluation. I created this interface design on Figma and created an entirely new mobile app version of the New York public health website. 
 
 I decided to focus on the following features:
 
