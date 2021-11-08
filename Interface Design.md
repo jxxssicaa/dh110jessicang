@@ -8,9 +8,9 @@
 
 My project focuses on improving the New York Public Health website after conducting user testing on the flow. I decided to create a mobile app with features that my test users had requested, and based on changes and features that I believed should be implemented after conducting a heuristic evaluation. I created this interface design on Figma and created an entirely new mobile app version of the New York public health website. 
 
-I decided to focus on the following features:
+My project has the following features
 
-1) Making mental health a priority and making it easily accessible directly from the home page 
+1) Mental health resources
 2) Adding a "Find a Doctor" feature with location and filter results
 3) Adding a chat center for messaging Doctors
 
@@ -48,17 +48,15 @@ I asked my test user to try and complete three tasks.
 
 These three tasks are listed as follows: 
 
-1. Message a doctor 
+1. Message a doctor
 2. Find the location map of doctors nearby
 3. Locate the mental health hotline
 
-My test user was able to quickly complete all three tasks without roadblocks or problems. 
+My test user was able to quickly complete all three tasks without roadblocks or problems. The video evidene of the user testing is here:
 
 ### Color Contrast Test  
 
 <img width="446" alt="Screen Shot 2021-11-07 at 5 48 17 PM" src="https://user-images.githubusercontent.com/91767108/140677206-731dcb27-cbe5-4259-81d2-905fcb1b19fb.png">
-
-### Conclusion 
 
 
 
