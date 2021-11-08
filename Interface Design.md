@@ -50,7 +50,7 @@ These three tasks are listed as follows:
 2. Find the location map of doctors nearby
 3. Locate the mental health hotline
 
-My test user was able to quickly complete all three tasks without roadblocks or problems. The video evidene of the user testing is here:
+My test user was able to quickly complete all three tasks without roadblocks or problems. The video evidence of the user testing conducted is here:
 
 ### Color Contrast Test  
 
