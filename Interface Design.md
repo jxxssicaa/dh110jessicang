@@ -8,7 +8,7 @@
 
 My project focuses on improving the New York Public Health website after conducting user testing on the flow. I decided to create a mobile app with features that my test users had requested, and based on changes and features that I believed should be implemented after conducting a heuristic evaluation. I created this interface design on Figma and created an entirely new mobile app version of the New York public health website. 
 
-My project has the following features
+My project has the following features:
 
 1) Mental health resources
 2) Adding a "Find a Doctor" feature with location and filter results
