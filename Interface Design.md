@@ -5,10 +5,19 @@
 
 A brief description of your project, the purpose and process of this interface design (3-5 sentences)
 
+My project focuses on improving the New York Public Health website after conducting user testing on the flow. I decided to create a mobile app with features that my test users had requested, and based on changes and features that I believed should be implemented after conducting a heaursitic evaluation. I created this interface design on Figma and cretaed an entirely new mobile app version of the New York public health website. 
+
+I decided to focus on the following features:
+
+1) Making mental health a priority and making it easily accessible directly from the home page 
+2) Adding a "Find a Doctor" feature with location and filter results
+3) Adding a chat center for messaging Doctors
+
 Provide link to digitized wireflow
 
 <img width="917" alt="Screen Shot 2021-11-07 at 6 53 22 PM" src="https://user-images.githubusercontent.com/91767108/140677136-8b917437-3eab-49ef-a291-ade59535833a.png">
 
+https://www.figma.com/proto/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=20%3A1377&scaling=min-zoom&page-id=20%3A874&starting-point-node-id=20%3A1377&show-proto-sidebar=1
 
 https://www.figma.com/file/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=0%3A1
 
