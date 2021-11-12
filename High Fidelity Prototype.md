@@ -25,6 +25,6 @@ FInally, mental health resources were considered heavily while building this pro
 
 #### Graphic Interface
 
-As this design closely follow Expedia’s mobile app with the implementation of three new features, I decided to adopt the travel agency’s clear, structural layout and great use of icons. Expedia’s logo colors are Dark Midnight Blue (#00355F) and Deep Lemon (#EEC218). I used color.adobe.com to explore complementary, analagous, and monochromatic variations of Midgnight Blue. I also explored color palettes related to keywords such as “travel”,”explore” and “adventure”. The final interactice prototype implements a monochromatic color palette of Midnight Blue with White.
+The design does not follow the current New York Health's website that much, as I wanted to implement a more modern and fun grahical style. I chose shades of purple, and bold and easy to read text in my app. 
 
 #### Wireflow
