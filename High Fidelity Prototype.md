@@ -28,3 +28,14 @@ FInally, mental health resources were considered heavily while building this pro
 The design does not follow the current New York Health's website that much, as I wanted to implement a more modern and fun grahical style. I chose shades of purple, and bold and easy to read text in my app. 
 
 #### Wireflow
+
+My first wireflow is linked here:
+Seconds wireflow:
+
+### Feedback
+
+#### In-class Cognitive Walkthrough
+
+#### Peer Review
+
+Screen recording here: 
