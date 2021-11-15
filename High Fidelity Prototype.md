@@ -19,9 +19,9 @@ The purpose of this interactive prototype is to see the different features of my
 
 The following prototype illustrates the flow for a user visiting the New York Public Health app. This app offeres users the ability to find doctors, message doctors, and locate mental health resources quickly. When finding a doctor, the user first clicks on "Find a Doctor," and then inputs criteria for the search, such as location or price. They then click "Go" and will be lied to a results page. This results page will showcase all doctors that fit the inital selection criteria, and show a map of the doctors locations near to you.
 
-After finding a doctor, the user can then click onto the doctors profile to learn more about the doctor. This profile page includes a picture, stars and reviews, a bio, and a chat now button. If the user presses "chat now," they will be led to a chat screen in which they can message the doctors office directly. From here, they can go back to the doctor profile, and then to the doctors result page, or continue to chat with the selcted doctor. They can access the chat center thorugh the chat tab at the bottom tab of the screen as well. 
+After finding a doctor, the user can then click onto the doctors profile to learn more about the doctor. This profile page includes a picture, stars and reviews, a bio, and a chat now button. If the user presses "chat now," they will be led to a chat screen in which they can message the doctors office directly. From here, they can go back to the doctor profile, and then to the doctors result page, or continue to chat with the selected doctor. They can access the chat center thorugh the chat tab at the bottom tab of the screen as well. 
 
-FInally, mental health resources were considered heavily while building this prototype, as my inital evaluation of the NEw York Public Health website showed that it was difficult to locate mental health resources. I wanted to ensure that users could immediately locat emental health resources, as this is a public health app. Therefore, on the front page there is a big tab that says "mental health resources." Not only that, but on the top tab, there is a section for mental health resources as well. Clicking wither of these will lead to the samemental health resources page which has hotlines, FAQ guides, and ohone numbers to contact in time of need. You can even find a doctor that spcializes in mental health.
+Finally, mental health resources were considered heavily while building this prototype, as my inital evaluation of the New York Public Health website showed that it was difficult to locate mental health resources. I wanted to ensure that users could immediately locate mental health resources, as this is a public health app. Therefore, on the front page there is a big tab that says "mental health resources." Not only that, but on the top tab, there is a section for mental health resources as well. Clicking wither of these will lead to the same mental health resources page which has hotlines, FAQ guides, and ohone numbers to contact in time of need. You can even find a doctor that specializes in mental health.
 
 #### Graphic Interface
 
@@ -30,7 +30,8 @@ The design does not follow the current New York Health's website that much, as I
 #### Wireflow
 
 My first wireflow is linked here:
-Seconds wireflow:
+
+Second wireflow:
 
 ### Feedback
 
