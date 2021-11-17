@@ -44,7 +44,7 @@ Prototype on Iphone screen: https://www.figma.com/proto/2X2w6qk49IBKljXIyW0wj3/P
 
 #### In-class Cognitive Walkthrough
 
-My classmates feedback was that the app was clear to use, helpful, and easy to identify and navogate around. 
+My classmates feedback was that the app was clear to use, helpful, and easy to identify and navigate around. 
 
 #### Peer Review
 
