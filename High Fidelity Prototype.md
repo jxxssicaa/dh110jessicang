@@ -11,6 +11,7 @@ The following interactive prototype is designed to solve and illustrate three fe
 #### Process
 
 The prototype was created using Figma, a web based UI and UX application for prototyping and wireframing.
+
 #### Purpose
 
 The purpose of this interactive prototype is to see the different features of my proposed app for New York Public Health. This prototpye is used to test users interaction witht eh app, and to see what choices users will make. Therefore, it is mainly used for evaluation purposes to validate the flow of the app.
@@ -29,22 +30,36 @@ The design does not follow the current New York Health's website that much, as I
 
 #### Wireflow
 
-My first wireflow is linked here:
 
-Second wireflow:
+<img width="820" alt="Screen Shot 2021-11-16 at 5 16 34 PM" src="https://user-images.githubusercontent.com/91767108/142091767-683e8817-0d0a-41e5-a903-d112ccdb6ae6.png">
+
+
+
+My wireflow is linked here: https://www.figma.com/file/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=0%3A1
+
+Prototype on Iphone screen: https://www.figma.com/proto/2X2w6qk49IBKljXIyW0wj3/Public-Health-App?node-id=2%3A5&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A5&show-proto-sidebar=1
 
 ### Feedback
 
 #### In-class Cognitive Walkthrough
 
+My classmates feedback was that the app was clear to use, helpful, and easy to identify and navogate around. 
+
 #### Peer Review
 
-Screen recording here: 
+One of my peers reccomended to add the doctors name into the chat now feature so that the user woudl always be aware of which doctor they are messaging. Therefore, I added the name onto my protype of the chat feature to fix this. The change is shown beloq: 
+
+<img width="266" alt="Screen Shot 2021-11-16 at 5 17 57 PM" src="https://user-images.githubusercontent.com/91767108/142091856-0a7a8875-e5ac-4ab5-b0a8-52a80f18b470.png">
 
 
 
+#### Screen recording of inital walk through: 
 
+The three tasks which I asked my test user to complete were
 
+1. Message a doctor 
+2. Find the location map of doctors nearby
+3. Locate the mental health hotline
 
 https://user-images.githubusercontent.com/91767108/141530198-c1bbcced-2f86-477a-9ff5-ecd737d617a9.mp4
 
