@@ -1,6 +1,7 @@
 # Interactive Prototype
 
 Jessica Ng 
+
 DH 110: User Experience and Design
 
 ## Project Description
