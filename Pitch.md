@@ -45,6 +45,8 @@ Interface design: https://github.com/jxxssicaa/dh110jessicang/blob/main/Interfac
 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
+The purpose of this low fidelity protype is to test both the flow and functionality these extra features would require when added onto a public health website.
+
 https://github.com/jxxssicaa/dh110jessicang/blob/main/Low-Fidelity%20Prototype.md
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
