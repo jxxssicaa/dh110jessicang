@@ -12,11 +12,14 @@ This project was to improve a government website, and the state I had chosen was
 
 What is the issue and Why do you think it is important to resolve that issue by your project?
 
-The issue with the New York Public Health website is that it is very cluttered, and hard to navihate. I wanted to attempt to make it more accessiblble by making the intercae easier to use. 
+The issue with the New York Public Health website is that it is very cluttered, and hard to navigate. I wanted to attempt to make it more accessiblble by making the intercae easier to use. 
 
 ## Competitor analysis [assignment01 & 02]:
 
  Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
+ 
+ 
+This assignment will be evaluating two New York public health websites for their design and usability. I will be providing feedback, and suggesting ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end.
  
  Heuristics and usability testing: https://github.com/jxxssicaa/dh110jessicang/blob/main/(/Heuristic%20Evaluation%20README.md
  
@@ -38,6 +41,17 @@ UX storytelling is important because it forces you to think as the user would, a
 Persona + Scenario: https://github.com/jxxssicaa/dh110jessicang/blob/main/Persona%20%2B%20Scenario.md
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+
+
+
+My project focuses on improving the New York Public Health website after conducting user testing on the flow. I decided to create a mobile app with features that my test users had requested, and based on changes and features that I believed should be implemented after conducting a heuristic evaluation. I created this interface design on Figma and created an entirely new mobile app version of the New York public health website. 
+
+My project has the following features:
+
+1) Mental health resources
+2) Adding a "Find a Doctor" feature with location and filter results
+3) Adding a chat center for messaging Doctors
+
 
 Interface design: https://github.com/jxxssicaa/dh110jessicang/blob/main/Interface%20Design.md
 
@@ -63,3 +77,5 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ## Pitch video
 
 ## Conclusion: what did you learn throughout the process?
+
+Overall, I learned from this project the design process behind creating a usable app. I was able to conduct research and testing which helped to structure the features that I wanted to include into my final app design. 
