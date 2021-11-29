@@ -4,13 +4,9 @@
 
 ## Introduction
 
-a brief information about the project. What is the project about? The motivation of the project and possible contribution.
-
 My UX project was to improve a government website, and the state I had chosen was New York. Specifically, I chose the New York Public Health page as I am interested in public health accessibility. I conducted a heuristic evaluation on the New York Public Health website, and then created an app version of the website to promote ease and usability. I was motivated to choose this project because mental and physical health is something that is very important, and I believe that everybody should have easy access to resources which will help them improve their health.  
 
 ## Clear design statement
-
-What is the issue and Why do you think it is important to resolve that issue by your project?
 
 The issue with the New York Public Health website is that it is very cluttered, and hard to navigate. There was a lot of information, and was very overwhelming upon initial impressions. I wanted to attempt to make it more accessibile by making the interface easier to use. I believe that cleaning up the interface would make this app easier to use for people who are not as technologically sound, or those having urgent health issues. 
 
@@ -48,8 +44,6 @@ Persona + Scenario: https://github.com/jxxssicaa/dh110jessicang/blob/main/Person
 
 ## Low-fidelity prototype  
 
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-
 The purpose of this low fidelity protype is to test both the flow and functionality these extra features would require when added onto a public health websites app. I then asked a friend to test the flow by walking thorugh he he woudl accomplish tasks thorugh the wireframes. More information and the user testing video is linked below. 
 
 ![139353858-45f98294-002d-46d1-959c-cef7286b0198](https://user-images.githubusercontent.com/91767108/143959763-25071534-b4be-4144-bc8e-c90373a31bce.jpg)
@@ -74,6 +68,7 @@ My project has the following features:
 
 
 Interface design: https://github.com/jxxssicaa/dh110jessicang/blob/main/Interface%20Design.md
+
 ## High-fidelity prototype  
 
 The following interactive prototype is designed to solve and illustrate three features to ease public health related issues. It helps out with findng a doctor, communicating with doctors, and locating mental health resources quickly. It comes with a doctor filtering tool to help to locate doctors with a set of filters, and locations. It uses a chat feature to speak with doctors, and finally there is a mental health tab which supports all different types of mental health resources.
