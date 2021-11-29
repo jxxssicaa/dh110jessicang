@@ -1,4 +1,4 @@
-# New York Public Health 
+# New York Public Health Accessibility
 
 ### Jessica Ng | DH110 | Fall 2021
 
@@ -66,6 +66,11 @@ https://github.com/jxxssicaa/dh110jessicang/blob/main/Low-Fidelity%20Prototype.m
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 
 The following interactive prototype is designed to solve and illustrate three features to ease public health related issues. It helps out with findng a doctor, communicating with doctors, and locating mental health resources quickly. It comes with a doctor filtering tool to help to locate doctors with a set of filters, and locations. It uses a chat feature to speak with doctors, and finally there is a mental health tab which supports all different types of mental health resources.
+
+
+<img width="820" alt="Screen Shot 2021-11-16 at 5 16 34 PM" src="https://user-images.githubusercontent.com/91767108/143958261-f583d931-42e0-4396-a737-7e9afb7d28b2.png">
+
+
 
 High Fidelity Prototype: https://github.com/jxxssicaa/dh110jessicang/blob/main/High%20Fidelity%20Prototype.md
 
