@@ -16,7 +16,7 @@ The issue with the New York Public Health website is that it is very cluttered, 
 
 ## Competitor analysis
 
-<img width="1207" alt="Screen Shot 2021-11-29 at 3 32 28 PM" src="https://user-images.githubusercontent.com/91767108/143959687-c54ec39a-2eb3-4212-be91-8bf247a813e4.png">
+<img width="1207" alt="Screen Shot 2021-11-29 at 3 32 28 PM" src="https://user-images.githubusercontent.com/91767108/143959897-cd92b680-3adb-45d8-be70-ef50d97bf4bc.png">
 
  
 First, I started by evaluating two New York public health websites for their design and usability. I provided feedback, and suggested ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end.
@@ -43,8 +43,19 @@ UX storytelling is important because it forces you to think as the user would, a
 <img width="513" alt="138035556-9af15da0-2c46-4794-ae80-736a0bbe6390" src="https://user-images.githubusercontent.com/91767108/143959738-7babeecd-1157-4e99-8a61-e47f6ad0647a.png">
 
 
-
 Persona + Scenario: https://github.com/jxxssicaa/dh110jessicang/blob/main/Persona%20%2B%20Scenario.md
+
+
+## Low-fidelity prototype  
+
+Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+The purpose of this low fidelity protype is to test both the flow and functionality these extra features would require when added onto a public health websites app. I then asked a friend to test the flow by walking thorugh he he woudl accomplish tasks thorugh the wireframes. More information and the user testing video is linked below. 
+
+![139353858-45f98294-002d-46d1-959c-cef7286b0198](https://user-images.githubusercontent.com/91767108/143959763-25071534-b4be-4144-bc8e-c90373a31bce.jpg)
+
+
+https://github.com/jxxssicaa/dh110jessicang/blob/main/Low-Fidelity%20Prototype.md
 
 ## Wireframe and graphic design element variation 
 
@@ -63,18 +74,6 @@ My project has the following features:
 
 
 Interface design: https://github.com/jxxssicaa/dh110jessicang/blob/main/Interface%20Design.md
-
-## Low-fidelity prototype  
-
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-
-The purpose of this low fidelity protype is to test both the flow and functionality these extra features would require when added onto a public health websites app. I then asked a friend to test the flow by walking thorugh he he woudl accomplish tasks thorugh the wireframes. More information and the user testing video is linked below. 
-
-![139353858-45f98294-002d-46d1-959c-cef7286b0198](https://user-images.githubusercontent.com/91767108/143959763-25071534-b4be-4144-bc8e-c90373a31bce.jpg)
-
-
-https://github.com/jxxssicaa/dh110jessicang/blob/main/Low-Fidelity%20Prototype.md
-
 ## High-fidelity prototype  
 
 The following interactive prototype is designed to solve and illustrate three features to ease public health related issues. It helps out with findng a doctor, communicating with doctors, and locating mental health resources quickly. It comes with a doctor filtering tool to help to locate doctors with a set of filters, and locations. It uses a chat feature to speak with doctors, and finally there is a mental health tab which supports all different types of mental health resources.
