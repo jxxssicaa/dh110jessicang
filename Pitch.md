@@ -26,7 +26,7 @@ Original website: https://www1.nyc.gov/site/doh/index.page
 
 ## User research
 
-I want to create a website that empowers the public to access public health resource that their state provides. Thorugh my interviews, I noticed a disconnect between public health resources that were availible and people actually being aware of usuch resources. This project will help users locate public health resources and people to contact in a straightforward and intuitive manner.
+I want to create a website that empowers the public to access public health resource that their state provides. I researched this topic by interviewing people in my target demographic. Through my interviews, I noticed a disconnect between public health resources that were availible and people actually being aware of usuch resources. This project will help users locate public health resources and people to contact in a straightforward and intuitive manner.
 
 User testing: https://github.com/jxxssicaa/dh110jessicang/blob/main/User%20Testing.md
 
@@ -35,7 +35,7 @@ User research: https://github.com/jxxssicaa/dh110jessicang/blob/main/Qualitative
 
 ## UX storytelling
 
-UX storytelling is important because it forces you to think as the user would, and help you to share how they think. Personas can help you to imagine your users, and to share their needs and problems. I usedstory telling and user personas to share the problems and thought processes of my target users. These target users were created on the scenario that they would be likely users of the New York Public Health website.
+UX storytelling is important because it forces you to think as the user would, and help you to share how they think. Personas can help you to imagine your users, and to share their needs and problems. I used story telling and user personas to share the problems and thought processes of my target users. These target users were created on the scenario that they would be likely users of the New York Public Health website.
 
 Persona + Scenario: https://github.com/jxxssicaa/dh110jessicang/blob/main/Persona%20%2B%20Scenario.md
 
