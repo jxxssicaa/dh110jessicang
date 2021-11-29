@@ -16,7 +16,8 @@ The issue with the New York Public Health website is that it is very cluttered, 
 
 ## Competitor analysis
 
- Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
+<img width="1207" alt="Screen Shot 2021-11-29 at 3 32 28 PM" src="https://user-images.githubusercontent.com/91767108/143959687-c54ec39a-2eb3-4212-be91-8bf247a813e4.png">
+
  
 First, I started by evaluating two New York public health websites for their design and usability. I provided feedback, and suggested ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end.
  
@@ -28,7 +29,7 @@ Original website: https://www1.nyc.gov/site/doh/index.page
 
 I want to create a website that empowers the public to access public health resource that their state provides. I researched this topic by interviewing people in my target demographic. Through my interviews, I noticed a disconnect between public health resources that were availible and people actually being aware of usuch resources. This project will help users locate public health resources and people to contact in a straightforward and intuitive manner.
 
-User testing: https://github.com/jxxssicaa/dh110jessicang/blob/main/User%20Testing.md
+User testing with interview: https://github.com/jxxssicaa/dh110jessicang/blob/main/User%20Testing.md
 
 User research: https://github.com/jxxssicaa/dh110jessicang/blob/main/Qualitative%20User%20Research.md
 
@@ -36,6 +37,12 @@ User research: https://github.com/jxxssicaa/dh110jessicang/blob/main/Qualitative
 ## UX storytelling
 
 UX storytelling is important because it forces you to think as the user would, and help you to share how they think. Personas can help you to imagine your users, and to share their needs and problems. I used story telling and user personas to share the problems and thought processes of my target users. These target users were created on the scenario that they would be likely users of the New York Public Health website.
+
+<img width="515" alt="138035722-a86fdd1a-1150-421c-b5ca-99e102d50383" src="https://user-images.githubusercontent.com/91767108/143959732-9a2f4c9c-e302-4300-b639-f0858c40279b.png">
+
+<img width="513" alt="138035556-9af15da0-2c46-4794-ae80-736a0bbe6390" src="https://user-images.githubusercontent.com/91767108/143959738-7babeecd-1157-4e99-8a61-e47f6ad0647a.png">
+
+
 
 Persona + Scenario: https://github.com/jxxssicaa/dh110jessicang/blob/main/Persona%20%2B%20Scenario.md
 
@@ -49,6 +56,11 @@ My project has the following features:
 2) Adding a "Find a Doctor" feature with location and filter results
 3) Adding a chat center for messaging Doctors
 
+<img width="917" alt="140677136-8b917437-3eab-49ef-a291-ade59535833a" src="https://user-images.githubusercontent.com/91767108/143959751-2ff546ac-22b5-4474-896b-12f199ba1d90.png">
+
+<img width="688" alt="140678973-1c56911b-948a-4502-bab7-dcf106bc6396" src="https://user-images.githubusercontent.com/91767108/143959756-337bef7f-8895-4da2-892c-120ef59e23b5.png">
+
+
 
 Interface design: https://github.com/jxxssicaa/dh110jessicang/blob/main/Interface%20Design.md
 
@@ -56,7 +68,10 @@ Interface design: https://github.com/jxxssicaa/dh110jessicang/blob/main/Interfac
 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-The purpose of this low fidelity protype is to test both the flow and functionality these extra features would require when added onto a public health websites app.
+The purpose of this low fidelity protype is to test both the flow and functionality these extra features would require when added onto a public health websites app. I then asked a friend to test the flow by walking thorugh he he woudl accomplish tasks thorugh the wireframes. More information and the user testing video is linked below. 
+
+![139353858-45f98294-002d-46d1-959c-cef7286b0198](https://user-images.githubusercontent.com/91767108/143959763-25071534-b4be-4144-bc8e-c90373a31bce.jpg)
+
 
 https://github.com/jxxssicaa/dh110jessicang/blob/main/Low-Fidelity%20Prototype.md
 
