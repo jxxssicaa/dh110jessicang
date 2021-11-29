@@ -20,9 +20,9 @@ The issue with the New York Public Health website is that it is very cluttered, 
  
 First, I started by evaluating two New York public health websites for their design and usability. I provided feedback, and suggested ways to improve the user experience and navigation of these websites. I hope to be able to help to make the websites more clear, and user friendly by the end.
  
- Heuristics and usability testing: https://github.com/jxxssicaa/dh110jessicang/blob/main/(/Heuristic%20Evaluation%20README.md
+Heuristics and usability testing https://github.com/jxxssicaa/dh110jessicang/blob/main/(/Heuristic%20Evaluation%20README.md
  
- Original website: https://www1.nyc.gov/site/doh/index.page
+Original website: https://www1.nyc.gov/site/doh/index.page
 
 ## User research
 
