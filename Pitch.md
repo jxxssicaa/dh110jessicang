@@ -81,7 +81,7 @@ The following interactive prototype is designed to solve and illustrate three fe
 High Fidelity Prototype: https://github.com/jxxssicaa/dh110jessicang/blob/main/High%20Fidelity%20Prototype.md
 
 
-## Optional evaluation and revision history
+## Evaluation and revision history
 
 My classmates feedback was that the app was clear to use, helpful, and easy to identify and navigate around. 
 
