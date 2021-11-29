@@ -83,7 +83,14 @@ High Fidelity Prototype: https://github.com/jxxssicaa/dh110jessicang/blob/main/H
 
 ## Optional evaluation and revision history
 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+My classmates feedback was that the app was clear to use, helpful, and easy to identify and navigate around. 
+
+#### Peer Review
+
+One of my peers reccomended to add the doctors name into the chat now feature so that the user would always be aware of which doctor they are messaging. Therefore, I added the name onto my protype of the chat feature to fix this. The change is shown below: 
+
+<img width="266" alt="Screen Shot 2021-11-16 at 5 17 57 PM" src="https://user-images.githubusercontent.com/91767108/142091856-0a7a8875-e5ac-4ab5-b0a8-52a80f18b470.png">
+
 
 ## Pitch video
 
