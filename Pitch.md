@@ -94,6 +94,8 @@ One of my peers reccomended to add the doctors name into the chat now feature so
 
 ## Pitch video
 
+https://www.youtube.com/watch?v=VkX8Egb9TDA
+
 ## Conclusion: what did you learn throughout the process?
 
-Overall, I learned from this project the design process behind creating a usable app. I was able to conduct research and testing which helped to structure the features that I wanted to include into my final app design. 
+Overall, I learned from this project the design process behind creating a usable app. I was able to conduct research and testing which helped to structure the features that I wanted to include into my final app design. Learning the entire process was eye opening to see how you can create a solution by first identifying a problem. In the future, I would love to spend more time conducting research thorugh interviews, try more design variations, and evualate and revise more thoroughly. 
